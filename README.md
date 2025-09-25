@@ -1,54 +1,59 @@
-# Sistema de Gestão de Atividades e Participantes: Instituto Além dos Olhos
+>>> Sistema de Gestão de Atividades e Participantes: Instituto Além dos Olhos
 
-**Resumo:**  
-Plataforma multiplataforma para cadastro de participantes, controle de frequência, calendário de aulas/eventos e geração de relatórios simples, visando reduzir o trabalho manual em planilhas e facilitar a prestação de contas e comunicação interna.
+Resumo:  
+Esse projeto tem como finalidade a criação de uma aplicação multiplataforma para cadastro de participantes, controle de frequência, calendário de aulas, eventos e geração de relatórios simples, visando reduzir o trabalho manual em planilhas e facilitar o gerenciamentos das atividades da ONG.
 
-**Problema:**  
-A ONG registra presença e informações dos beneficiados manualmente em planilhas, o que demanda muito tempo e dificulta a geração de relatórios.
+O Instituto Além dos Olhos fica localizado no bairro Barroso, em Fortaleza, e presta diversos serviços nas áreas de esporte e cultura para os jovens desse bairro. Ao realizar o diagnóstico das necessidades, percebemos que a maior desafio que enfrentam é a falta de uma plataforma que possa auxiliar no gerenciamento das atividades e dos beneficiados.
 
-**Objetivo:**  
+
+
+Problema:  
+A ONG registra presença e informações dos beneficiados manualmente em planilhas, o que demanda muito tempo e dificulta o controle das informações.
+
+Objetivo: 
 Criar um sistema simples e responsivo que permita:
-- Cadastro de alunos e voluntários;
-- Registro de frequência por atividade;
+- Cadastrar alunos e voluntários;
+- Registrar frequência por atividade;
 - Calendário de aulas/eventos;
 - Relatórios automáticos de frequência e participação.
 
-**Escopo (Etapa 1: planejamento):**
+  Escopo (Etapa 1 planejamento):
 - Documento de requisitos (RF / RNF);
 - Arquitetura do sistema (frontend/backend/banco);
 - Modelo de dados (ER);
 - Protótipos
 
-**Relacionamento com ODS 11:**  
-Contribui para cidades e comunidades mais inclusivas e resilientes ao fortalecer a gestão de ações comunitárias e otimizar recursos.
+ Relacionamento com ODS 11:  
+O projeto se relaciona com o ODS 11 (Cidades e comunidades sustentáveis), por apoiar a inclusão social e otimizar os recursos da ONG, fortalecendo a gestão comunitária.
 
-**Visão geral da arquitetura proposta:**
-- Frontend Web: React (SPA) — admin/relatórios.
-- Frontend Mobile: Flutter ou React Native — chamada rápida.
-- Backend: Node.js + Express (REST API).
-- Banco de Dados: PostgreSQL.
-- Autenticação: JWT (roles: admin, professor).
+ Proposta de arquitetura:
+- Frontend Web: HTML, CSS e JavaScript >>>>> admin/relatórios.
+- Frontend Mobile: Flutter ou React Native 
+- Backend: Node.js + Express
+- Banco de Dados: SQLite ou PostgreSQL.
+- Autenticação: admin, professor.
 
-**Tecnologias sugeridas:**  
-React, Flutter (ou React Native), Node.js, Express, PostgreSQL, Figma, Swagger.
+Tecnologias sugeridas:
 
-**Cronograma sugerido (Etapa 2 — implementação):**
-- Configuração inicial e backend básico → Sprint 1
-- Modelagem e APIs → Sprint 2
-- Frontend Web → Sprint 3
-- Mobile (chamada) → Sprint 4
-- Testes, ajustes e entrega → Sprint 5
 
-**Equipe e papéis:**  
-- [Nilza] — Requisitos / Documentação  
-- [Victor e Paulo Sérgio] — Modelagem de BD / APIs  
-- [Antunis Jr] — Protótipos / UX  
-- [Cláudio] — Integração / Cronograma
+ Cronograma (segunda etapa implementação):
+- Configuração inicial e backend básico >>> Sprint 1
+- Modelagem e APIs >>> Sprint 2
+- Frontend Web >>> Sprint 3
+- Mobile (chamada) >>> Sprint 4
+- Testes, ajustes e entrega >>> Sprint 5
 
-**Links:**  
-- Protótipos (Figma): (colocar link)  
+ >> Equipe e papéis: 
+- Nilza : Requisitos / Documentação  
+- Victor e Paulo Sérgio: Modelagem de BD / APIs  
+- Antunis Jr: Protótipos / UX  
+- Cláudio:Integração / Cronograma
 
-## Cronograma para Etapa 2 (Implementação)
+ >> Links: 
+- Protótipos (Figma): https://www.figma.com/design/hRPdiOdOEz4BoM1Q7DxZs5/Proje.Mult--UNIFOR?node-id=0-1&m=dev&t=q9Iop5lPvya9466U-1
+- Respostas do Forms: https://docs.google.com/spreadsheets/d/1eMnI0MExaLnmVM6Snhpksg3ajY7cPnLl4e6hQvkmWTY/edit?usp=sharing  
+
+>> Cronograma para a segunda etapa: implementação
 
 | Etapa | Atividade | Período |
 |-------|-----------|----------|
