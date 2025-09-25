@@ -48,3 +48,15 @@ React, Flutter (ou React Native), Node.js, Express, PostgreSQL, Figma, Swagger.
 **Links:**  
 - Protótipos (Figma): (colocar link)  
 
+## Cronograma para Etapa 2 (Implementação)
+
+| Etapa | Atividade | Período |
+|-------|-----------|----------|
+| 1 | Configuração inicial do ambiente (repositório, pastas, dependências) | Semana 1 |
+| 2 | Implementar cadastro de participantes e voluntários | Semana 2 |
+| 3 | Implementar cadastro de atividades | Semana 3 |
+| 4 | Implementar registro de presenças | Semana 4 |
+| 5 | Implementar relatórios | Semana 5 |
+| 6 | Testes e ajustes finais | Semana 6 |
+| 7 | Entrega final do sistema | Semana 7 |
+
