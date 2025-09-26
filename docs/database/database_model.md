@@ -37,7 +37,7 @@ Entidades
 Participante (1) ---- (N) Presença (N) ---- (1) Atividade
 Voluntário (1) ---- (N) Atividade
 
-![Diagrama ER](docs/database/diagrama-er.png)
+![Diagrama ER](docs/database/docs/database/diagrama-er.png)
 
 
 >> Dicionário de Dados
