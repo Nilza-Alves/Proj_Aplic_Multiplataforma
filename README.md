@@ -65,3 +65,6 @@ Tecnologias sugeridas:
 | 6 | Testes e ajustes finais | Semana 6 |
 | 7 | Entrega final do sistema | Semana 7 |
 
+
+![Diagrama de Arquitetura](docs/architecture/diagrama-arquitetura.drawio.png)
+
