@@ -66,5 +66,6 @@ Tecnologias sugeridas:
 | 7 | Entrega final do sistema | Semana 7 |
 
 
-![Diagrama de Arquitetura](docs/architecture/diagrama-arquitetura.drawio.png)
+![Diagrama de Arquitetura](https://raw.githubusercontent.com/Nilza-Alves/Proj_Aplic_Multiplataforma/main/docs/architecture/diagrama_arquitetura.drawio.png)
+
 
