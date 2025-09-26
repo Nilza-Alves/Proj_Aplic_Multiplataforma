@@ -19,5 +19,6 @@ Desenho Preliminar
 Usuário > Interface > Aplicação> Banco de Dados
 
 ![Diagrama de Arquitetura](docs/architecture/diagrama_arquitertura.drawio.png)
+![Diagrama de Arquitetura](docs/architecture/diagrama_arquitetura.drawio.png)
 
 
