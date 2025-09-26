@@ -18,4 +18,5 @@ Componentes
 Desenho Preliminar
 Usuário > Interface > Aplicação> Banco de Dados
 
-![Diagrama de Arquitetura](docs/architecture/diagrama-arquitetura.drawio.png)
+![Diagrama de Arquitetura](docs/diagrama-arquitetura.drawio.png)
+
