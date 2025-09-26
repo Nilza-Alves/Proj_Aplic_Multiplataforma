@@ -37,7 +37,8 @@ Entidades
 Participante (1) ---- (N) Presença (N) ---- (1) Atividade
 Voluntário (1) ---- (N) Atividade
 
-![Diagrama ER](docs/database/diagrama-er.png)
+![Diagrama ER](https://raw.githubusercontent.com/Nilza-Alves/Proj_Aplic_Multiplataforma/main/docs/diagrama-er.png)
+
 
 
 
