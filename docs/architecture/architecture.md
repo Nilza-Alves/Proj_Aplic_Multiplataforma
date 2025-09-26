@@ -18,7 +18,8 @@ Componentes
 Desenho Preliminar
 Usuário > Interface > Aplicação> Banco de Dados
 
-![Diagrama de Arquitetura](https://github.com/Nilza-Alves/Proj_Aplic_Multiplataforma/blob/main/docs/architecture/diagrama-arquitetura.drawio.png)
+![Diagrama de Arquitetura](https://raw.githubusercontent.com/Nilza-Alves/Proj_Aplic_Multiplataforma/main/docs/architecture/diagrama_arquitetura.drawio.png)
+
 
 
 
